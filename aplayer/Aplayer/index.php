@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: 空灵鸟
-Description: 使用网上多个开源项目整合制作，支持多个音乐平台。
+Description: 这是一款WordPress音乐播放器插件，使用网上多个开源项目整合制作，支持多个音乐平台，请打包本目录上传至WordPress插件目录。
 Author: Morgan
 Version: 2.1.0
 Author URI: https://imlzc.com/
