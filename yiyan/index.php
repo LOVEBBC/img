@@ -1,6 +1,6 @@
 <?php
 //获取句子文件的绝对路径
-$path = dirname(__FILE__);
+$path = ("https://cdn.jsdelivr.net/gh/imlzc/img/yiyan");
 $file = file($path."/yiyan.txt");
 
 //随机读取一行
