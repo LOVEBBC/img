@@ -1,5 +1,5 @@
 <?php
-//获取句子文件的绝对路径
+//获取句子文件的绝对路径，在线版
 $path = ("https://cdn.jsdelivr.net/gh/imlzc/img/yiyan");
 $file = file($path."/yiyan.txt");
 
