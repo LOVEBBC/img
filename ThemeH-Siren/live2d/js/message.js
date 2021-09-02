@@ -107,7 +107,7 @@ initTips();
 window.setInterval(showHitokoto, 15000);
 
 function showHitokoto() {
-    $.post("https://imlzc.com/yiyan/", function (result) {
+    $.post("https://imlzc.com/api/yiyan/", function (result) {
         showMessage(result, 12000);
     });
 }
