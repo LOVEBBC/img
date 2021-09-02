@@ -696,7 +696,7 @@ if ( ( isWebkit || isOpera || isIe ) && document.getElementById && window.addEve
 // 一言替换简介
 if (Poi.hitokoto == 'open') {
     $(function () {
-         $.post("https://imlzc.com/yiyan/", function(hitokoto) {
+         $.post("https://imlzc.com/api/yiyan/", function(hitokoto) {
     $('.header-info p').html(hitokoto)
         });
     });
